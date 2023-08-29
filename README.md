@@ -4,7 +4,7 @@ Build &amp; Deploy modern React App
 
 Sure, let's break down those instructions into a clear and engaging step-by-step guide:
 
-**Creating an Exciting React Project with GPT-3 Magic**
+**Creating an Exciting React Project with latest AI Magic**
 
 **Step 1: Setting Up the Playground**
 
