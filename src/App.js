@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css'
 
 import { Footer, Blog, Header, Possibility, Features, Codeapplied } from './containers';
 import { Cta, Brand, Navbar } from './components'
@@ -12,7 +13,7 @@ const App = () => {
         <Header />
       </div>
       <Brand />
-      <Codeapplied />
+      <Codeapplied />      
       <Features />
       <Possibility />
       <Cta />
