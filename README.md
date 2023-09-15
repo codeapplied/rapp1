@@ -8,7 +8,7 @@ Sure, let's break down those instructions into a clear and engaging step-by-step
 
 **Step 1: Setting Up the Playground**
 
-1. Open your coding universe and create a new folder. Let's call it "gpt3_magic", or whatever cool name you like.
+1. Open your coding universe and create a new folder. Let's call it "codeapplied_rapp", or whatever cool name you like.
 2. Launch Visual Studio Code and perform the ultimate drag-and-drop by tossing your fresh folder right into VS Code.
 
 **Step 2: Summoning the Terminal**
